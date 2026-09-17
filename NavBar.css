@@ -1,0 +1,27 @@
+.Nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: black;
+    color: white;
+    padding: 15px;
+}
+
+.left{
+    display: flex;
+    gap: 20px;
+}
+
+.right{
+    display: flex;
+    gap: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+input{
+    padding: 5px;
+}
